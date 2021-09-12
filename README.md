@@ -1,2 +1,5 @@
 # linuxnote
-my notebook of linux
+
+My private notebook of linux
+
+
